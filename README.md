@@ -1,2 +1,0 @@
-# delvis
-Delvis Rentals
